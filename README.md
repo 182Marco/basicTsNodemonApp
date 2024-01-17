@@ -1,1 +1,1 @@
-# App to be cloned as boilerPlate if you need an initialized project with node and ts
+# App to be cloned as a boilerplate if you need an initialized project with Node.js and TypeScript."
